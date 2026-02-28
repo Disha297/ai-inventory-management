@@ -1,36 +1,32 @@
-AI-Powered Inventory Management System
-Problem Statement
+# AI-Powered Inventory Management System
 
-Manual Excel-based inventory tracking is time-consuming and error-prone. This project automates product counting from shelf images using object detection.
+## Problem Statement
 
-Approach
+Manual Excel-based inventory tracking is time-consuming and error-prone.  
+This project automates product counting from retail shelf images using computer vision and object detection techniques.
 
-Model: YOLOv8
+---
 
-Task: Object Detection
+## Approach
 
-Output: Automated product count
+- **Model:** YOLOv8  
+- **Task:** Object Detection  
+- **Output:** Automated product count from shelf images  
 
-My Contribution
+---
 
-Dataset preparation and annotation
+## My Contributions
 
-Experimental setup
+- Dataset preparation and annotation  
+- Experimental setup and training configuration  
+- Model evaluation  
+- Performance analysis  
+- System integration for automated counting  
 
-Model evaluation
+---
 
-Performance analysis
+## Results
 
-System integration
-
-Results
-
-Automated product counting from shelf images
-
-Reduced estimated manual tracking time by ~4–6 hours per week
-
-Demonstrated feasibility of lightweight vision-based inventory systems
-
-How to Run
-pip install -r requirements.txt
-python predict.py
+- Automated product counting from shelf images  
+- Reduced estimated manual tracking time by ~4–6 hours per week  
+- Demonstrated feasibility of lightweight vision-based inventory systems  
