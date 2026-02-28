@@ -21,7 +21,6 @@ This project automates product counting from retail shelf images using computer 
 - Experimental setup and training configuration  
 - Model evaluation  
 - Performance analysis  
-- System integration for automated counting  
 
 ---
 
@@ -29,4 +28,4 @@ This project automates product counting from retail shelf images using computer 
 
 - Automated product counting from shelf images  
 - Reduced estimated manual tracking time by ~4–6 hours per week  
-- Demonstrated feasibility of lightweight vision-based inventory systems  
+
