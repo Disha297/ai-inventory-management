@@ -1,0 +1,6 @@
+names:
+- Price
+- Product
+nc: 2
+train: C:\Users\Dr. LALIT\Documents\Disha\Second year\inventory_management\supermarket_yolo\images\train
+val: C:\Users\Dr. LALIT\Documents\Disha\Second year\inventory_management\supermarket_yolo\images\valid
